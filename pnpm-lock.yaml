@@ -26,6 +26,9 @@ dependencies:
   '@fontsource/pt-sans':
     specifier: ^5.0.8
     version: 5.0.8
+  '@fontsource/spectral':
+    specifier: ^5.0.12
+    version: 5.0.12
   '@midudev/tailwind-animations':
     specifier: ^0.0.7
     version: 0.0.7(tailwindcss@3.4.1)
@@ -573,6 +576,10 @@ packages:
 
   /@fontsource/pt-sans@5.0.8:
     resolution: {integrity: sha512-YCn2rcHLdQUNcTzrrHpPzzLqMat2s1TUTcBDXIHgHpUNar3jkrZ9U0wNGczu0C0WgFzUFShDtRUl3PehDi9P+g==}
+    dev: false
+
+  /@fontsource/spectral@5.0.12:
+    resolution: {integrity: sha512-tscRgEvVW/eRnBaGRnnlg86rx0NUMGzXFNePFBIXqdZE++9hOH0RTUqtpzUR+zS037kgbkitaVqotyGY8Vq+jw==}
     dev: false
 
   /@isaacs/cliui@8.0.2:

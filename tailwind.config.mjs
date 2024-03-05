@@ -7,7 +7,7 @@ export default {
 			fontFamily: {
 				title: ['Anton'],
 				subtitle: ['Montserrat'],
-				body: ['pt sans'],
+				body: ['spectral'],
 				display: ['Lobster'],
 			},
 		},
